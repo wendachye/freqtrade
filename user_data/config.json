@@ -66,8 +66,8 @@
     },
     "telegram": {
         "enabled": true,
-        "token": "6939511097:AAGllzb_H4sVvhSCd6czTuU3SNlE3e3g9lI",
-        "chat_id": "-4092923002"
+        "token": "6813014302:AAGlPYU11iq9_TbIn3-TNcckjk6mNiviX9o",
+        "chat_id": "-4043283987"
     },
     "api_server": {
         "enabled": true,
