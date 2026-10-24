@@ -1,2 +1,5 @@
 *.sqlite*
 user_data/logs/
+
+# Private credentials belong only in ignored local settings.
+**/config.local.json
